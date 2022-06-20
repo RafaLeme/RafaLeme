@@ -1,4 +1,4 @@
-# 🖐️ Salve, Salve! Prazer sou o Rafael Leme... 🖐️
+# 🖐️ Prazer Rafael Leme! 🖐️
 
 -🌱 Atualmente estudando Programação WEB (Front-End | Back-End)
 <div align="left">
