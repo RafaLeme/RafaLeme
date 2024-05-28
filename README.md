@@ -1,10 +1,6 @@
 # 🖐️ Prazer Rafael Leme! 🖐️
 
--🌱 Atualmente estudando Programação WEB (Front-End | Back-End)
-<div align="left">
-  <a href="https://github.com/RafaLeme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaLeme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+-🌱 Desenvolvendo sem rótulos de tudo um pouco (HTML | CSS | Javascript | Angular3 | Bootstrap | TypeScript | <b>PYTHON</b> | PHP | PowerBI | Oracle | PostgreSQL | MySQL)
 
 ##
 
