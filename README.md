@@ -1,4 +1,4 @@
-# 🖐️ Prazer Rafael Leme - Ciêntista da Computação! 🖐️
+# 🖐️ Prazer Rafael Leme 🖐️
 
 -🌱 Desenvolvendo sem rótulos de tudo um pouco. (HTML | CSS | Javascript | Angular3 | Bootstrap | TypeScript | <b>PYTHON</b> | PHP | PowerBI | Oracle | PostgreSQL | MySQL)<br>
 -👨‍💻 Especialista em DADOS e PROCESSOS, tudo que envolve a inteligência e regra de negócio.<br>
