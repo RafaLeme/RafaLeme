@@ -20,7 +20,7 @@
 ## 📫 Contato & Redes
 <div>
   <a href="https://rafaelleme.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-rafaelleme.com.br-005A9C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐-rafaelleme.com.br-005A9C?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/rafael-rodrigues-leme/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
